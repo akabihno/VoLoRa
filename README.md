@@ -81,5 +81,5 @@ sequenceDiagram
         User Agent->>WiFi hotspot on RPI: Connection
     end
     
-    Note right of User Agent: Same goes bakward <br/>on far end <br/>to User Agent 2
+    Note left of LoRa: Same goes bakward <br/>on far end <br/>to User Agent 2
 ```
