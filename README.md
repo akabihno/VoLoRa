@@ -1,3 +1,7 @@
+## Project name:
+
+VoLoRa is composite acronym **V**oice **O**ver **LoRa**
+
 ## Project description:
 
 Project is in PoC stage. The idea is to send SIP messages
